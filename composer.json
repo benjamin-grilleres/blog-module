@@ -1,5 +1,5 @@
 {
-    "name": "bgrilleres/blog",
+    "name": "bgrilleres/blog-module",
     "type": "laravel-module",
     "description": "test laravel module publish",
     "require": {
