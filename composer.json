@@ -1,7 +1,10 @@
 {
     "name": "bgrilleres/blog",
     "type": "laravel-module",
-    "description": "",
+    "description": "test laravel module publish",
+    "require": {
+        "php": "^7.1"
+    },
     "authors": [
         {
             "name": "Benjamin Grilleres",
