@@ -1,0 +1,26 @@
+{
+    "name": "bgrilleres/blog",
+    "type": "laravel-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Benjamin Grilleres",
+            "email": "contact@benjamingrilleres.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Blog\\Providers\\BlogServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Blog\\": ""
+        }
+    }
+}
