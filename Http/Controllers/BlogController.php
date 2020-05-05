@@ -14,7 +14,7 @@ class BlogController extends Controller
      */
     public function index()
     {
-        return response()->json(['message' => 'hello world']);
+        return response()->json(['message' => 'hello world', 'je rajoute autre chose']);
     }
 
     /**
